@@ -1,0 +1,41 @@
+Lockerr ("we," "our," or "Lockerr") is committed to ensuring the privacy and security of our users. This Privacy Policy outlines our practices regarding the collection, use, and protection of user information for the Lockerr app. By using the Lockerr app, you agree to the terms of this Privacy Policy.
+
+1. Information Collection
+
+Lockerr does not collect, store, or transmit any personal or user data. We do not gather any information from your device, including but not limited to:
+
+Personal identifiers (e.g., name, email address)
+Location data
+Contacts
+Device information
+2. Cookies and Tracking Technologies
+
+Lockerr does not use any cookies, tracking technologies, or third-party analytics to collect information about your usage of the app.
+
+3. User-Provided Content
+
+Lockerr does not require or allow users to submit any content or data within the app. Therefore, there is no user-provided content that would be stored or transmitted.
+
+4. Third-Party Services
+
+Lockerr does not integrate with any third-party services or APIs that would result in the sharing of user data.
+
+5. Children's Privacy
+
+Lockerr is not directed at or intended for use by individuals under the age of 13. We do not knowingly collect any personal information from children under the age of 13.
+
+6. Data Security
+
+While Lockerr does not collect or store any user data, we are committed to implementing appropriate security measures to protect the app's functionality and user experience.
+
+7. Changes to Privacy Policy
+
+We may update this Privacy Policy from time to time. If we make any material changes, we will post the updated Privacy Policy on this page with a new effective date. Continued use of the Lockerr app after any such changes constitutes your acceptance of the new Privacy Policy.
+
+8. Contact Us
+
+If you have any questions about this Privacy Policy or the Lockerr app, you can contact us through the Lockerr GitHub repository: https://github.com/miccou/lockerr/
+
+Please note that this Privacy Policy only applies to the Lockerr app and its use. If you navigate to other websites or apps through links provided within Lockerr, please review the privacy policies associated with those platforms, as they may have different policies and practices.
+
+Thank you for using Lockerr! Your privacy is important to us, and we strive to provide you with a secure and seamless experience.
